@@ -8,7 +8,8 @@
 
 [:page_facing_up: English Documentation](https://timerring.github.io/bilive/) |
 [:gear: Installation](#quick-start) |
-[:thinking: Reporting Issues](https://github.com/timerring/bilive/issues/new/choose)
+[:thinking: Reporting Issues](https://github.com/timerring/bilive/issues/new/choose) |
+[:speech_balloon: Chat](https://github.com/timerring/bilive/blob/main/assets/wechat.png)
 
 支持模型
 
